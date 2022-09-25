@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Sanju Bodra
+- I'm a Full Stack Web Developer, Software engineer.
+- FreeTime CTF player : <img src="https://tryhackme-badges.s3.amazonaws.com/aaluloves.png" alt="TryHackMe">
 - 📫 How to reach me mail: sanjubodra1420@gmail.com
 
 <!---
