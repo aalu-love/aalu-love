@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 - FreeTime CTF player : <img src="https://tryhackme-badges.s3.amazonaws.com/aaluloves.png" alt="TryHackMe">
 > Can check my Certification : [Link](https://drive.google.com/drive/folders/1BXArudsTgRh7ulao1HfsQCcdahisVRBb?usp=sharing) <br>
-> [Protfolio](https://pages.github.com/)
+> [Protfolio](https://sanjubodra.netlify.app/)
