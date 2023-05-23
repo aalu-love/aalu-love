@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Sanju Bodra](sanjubodra.netlify.app)
+- 👋 Hi, I’m [Sanju Bodra](https://sanjubodra.netlify.app)
 - I'm a Software Developer.
 - 📫 How to reach me mail: sanjubodra1420@gmail.com
 - 🌱 I’m currently learning **Flask and Django Soon**
