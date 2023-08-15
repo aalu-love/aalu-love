@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [Sanju Bodra](https://sanjubodra.netlify.app)
 - 🦾 I'm a Software Developer.
 - 📫 How to reach me: sanjubodra1420@gmail.com
-- 🌱 I’m currently learning **Flask and Django Soon**
+- 🌱 I’m currently learning **TypeScript, Angular and NextJS**
 - ⚡ Fun fact **When you follow I follow you back!**
 
 Here is my badge and a [link to my profile](https://www.hackthebox.eu/profile/203479).
