@@ -6,9 +6,7 @@
 
 Here is my badge and a [link to my profile](https://www.hackthebox.eu/profile/203479).
 
-<script>
-  fetch('HHEH.com').then(res => console.log('Called'))
-</script>
+[]('Google.com')
 
 ![](https://www.hackthebox.eu/badge/image/203479)
 <img src="https://komarev.com/ghpvc/?username=aalu-love&label=Profile%20views&color=blueviolet" alt="aalu-love" /><br>
