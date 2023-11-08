@@ -1,3 +1,5 @@
+![](https://media.tenor.com/10DXjxnBKksAAAAC/tuna-rungu.gif)
+
 - 👋 Hi, I’m [Sanju Bodra](https://sanjubodra.netlify.app)
 - 🦾 I'm a Software Developer.
 - 📫 How to reach me: sanjubodra1420@gmail.com
