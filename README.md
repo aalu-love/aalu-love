@@ -1,6 +1,6 @@
 ![](https://media.tenor.com/10DXjxnBKksAAAAC/tuna-rungu.gif)
 
-- 👋 Hi, I’m [Sanju Bodra](https://sanjubodra.netlify.app)
+- 👋 Hi, I’m [Sanju Bodra](https://sanju-bodra.vercel.app/)
 - 🦾 I'm a Software Developer.
 - 📫 How to reach me: sanjubodra1420@gmail.com
 - 🌱 I’m currently learning **TypeScript, Angular and NextJS**
