@@ -118,6 +118,6 @@ Here is my badge and a [link to my profile](https://www.hackthebox.eu/profile/20
 
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=aalu-love&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aalu-love&" alt="aalu-love" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aalu-love&" alt="aalu-love" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aalu-love&show_icons=true&locale=en" alt="aalu-love" /></p>
 
