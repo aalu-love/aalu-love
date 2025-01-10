@@ -8,7 +8,7 @@
 
 Here is my badge and a [link to my profile](https://www.hackthebox.eu/profile/203479).
 
-Placeholder Service: [Placeholder Connect](https://placeholder-lhe5.onrender.com/600x400)
+💡 Placeholder Service: [Placeholder Connect](https://placeholder-lhe5.onrender.com)
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
