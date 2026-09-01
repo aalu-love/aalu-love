@@ -3,7 +3,7 @@
 - 👋 Hi, I’m [Sanju Bodra](https://sanjub.netlify.app)
 - 🦾 I'm a Software Developer.
 - 📫 How to reach me: sanjubodra1420@gmail.com
-- 🌱 I’m currently learning **TypeScript, NextJS and GoLang**
+- 🌱 I’m currently learning **SpringBoot, Rust and GoLang**
 - ⚡ Fun fact **When you follow, I follow you back!**
 
 Here is my badge and a [link to my profile](https://www.hackthebox.eu/profile/203479).
